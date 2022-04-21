@@ -1,7 +1,6 @@
 {
   "name": "imagegallery",
-  // "homepage": "https://thenanpsoft.github.io/react_image_gallery_app",
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://thenanosoft.github.io/react_image_gallery_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +14,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    // "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
